@@ -1,3 +1,5 @@
-# Crie um programa onde o usuario digitre dois valores e apareca a soma
+# Refatore o exercicio 2
 
-print(int(input("Digite o primeiro numero: ")) + int(input("Digite o segundo numero: ")))
+nome = input("Digite seu nome: ")
+quantidade_caracteres = len(nome)
+print(quantidade_caracteres)
