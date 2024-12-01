@@ -1,3 +1,3 @@
-# Crie um programa que o usuario digita o seu nome retorna numero de caracteres
+# Crie um programa onde o usuario digitre dois valores e apareca a soma
 
-print(len(input("Digite o seu nome: ")))
+print(int(input("Digite o primeiro numero: ")) + int(input("Digite o segundo numero: ")))
